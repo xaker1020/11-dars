@@ -1,0 +1,253 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    gap: 15px;
+    text-decoration: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    height: 60px;
+    padding-top: 25px;
+}
+
+.h11 {
+    color: white;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.icon {
+    width: 300px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: white;
+
+    text-align: center;
+    align-items: center;
+    padding-bottom: 25px;
+}
+
+.icon input {
+    border: none;
+    font-size: 16px;
+    text-align: center;
+}
+
+.icon i {
+    color: gray;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+main {
+    background-image: url(./img/slider2\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 400px;
+    top: 85px;
+    left: 45px;
+
+}
+
+
+
+
+.h13{
+    font-family: Inter;
+font-weight: 700;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 100px;
+}
+
+.h12 {
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 160px;
+
+}
+.btn{
+    width: 109px;
+height: 55px;
+top: 300px;
+left: 45px;
+background-color: #76B900;
+color: black;
+text-align: center;
+
+}
+.card p{
+    font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+color: black ;
+text-align: center;
+padding-top:20px ;
+}
+.card{
+    width: 290px;
+height: 302px;
+top: 498px;
+gap: 40px;
+background-color: white;
+
+}
+.p1 {
+    font-family: Inter;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+justify-content: center;
+display: flex;
+margin-right: -20px;
+}
+.card i{
+    color: #76B900;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 17px;
+}
+.card div{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 95px;
+}
+.gaming{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+}
+
+
+.h14{
+    font-family: Inter;
+font-weight: 700;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+color: black;
+margin-top: 40px;
+text-align: center;
+}
+.laptops{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+}
+.h15{
+    font-family: Inter;
+font-weight: 700;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: black;
+
+}
+.network{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+margin-top: 90px;
+}
+.compyter{
+    height: 351px;
+margin-top: 30px;
+    display: flex;
+    background-color: white ;
+}
+
+.compyter h1{
+    font-family: Inter;
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-left: 40px;
+color: #76B900;
+
+
+}
+.compyter p{
+    font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+margin-left: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-top: 28px;
+margin-bottom: 50px;
+
+color: black;
+}
+.btn4{
+    margin-left: 40px;
+    width: 233px;
+height: 62px;
+top: 2003px;
+left: 757px;
+
+
+font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+    color: black;
+    background-color: #76B900;
+    }
+
+
+    .class{
+  justify-content: space-between;
+display: flex;
+padding: 50px 0px 50px 0px;
+}
